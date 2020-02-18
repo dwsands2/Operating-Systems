@@ -1,0 +1,2 @@
+User Interface: 
+A user interface is how you interact with a device. It allows you to control how you input data and decide how information is displayed to you. There are two main types of user interfaces; GUI (graphical user interface) and command-line. GUI systems are navegated by clicking and pointing while command-line systems are navegated by inputing exact text commands. GUI systems can be much more user friendly, but command-line systems can give the user more control.
