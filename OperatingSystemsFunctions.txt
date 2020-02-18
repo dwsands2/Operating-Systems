@@ -1,2 +1,4 @@
 User Interface: 
 A user interface is how you interact with a device. It allows you to control how you input data and decide how information is displayed to you. There are two main types of user interfaces; GUI (graphical user interface) and command-line. GUI systems are navegated by clicking and pointing while command-line systems are navegated by inputing exact text commands. GUI systems can be much more user friendly, but command-line systems can give the user more control.
+Memory:
+Memory can be broken into two areas on a device, the RAM and the Virtual memory. RAM is a physical set of chips on your motherboard that hold data and information for your processor to use. Virtual Memory is a section of your hard drive called the swap file set asside to help assist your RAM when it is overwhelmed. RAM is much faster than Virtual Memory.
